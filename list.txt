@@ -1,0 +1,9 @@
+components list:
+1) Arduino UNO or Nano         1 pice
+2) Led                         1 pice
+3) Resistor(4.7k or 10k)       1 pice
+4) Resistor(330ohm or 1k)      1 pice
+5) Push Buttom                 1 pice
+6) some jumper wire
+7) Breadboard                  1 pice
+8) 9-volt battery              1 pice
